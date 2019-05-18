@@ -28,7 +28,11 @@
   - 從後端拿到 Rich Text 形式文字
 
 ### management
-老師可以在此頁面 CRUD 各內容
+若要進入此頁面，只能是老師的身分
+> 把 `user_profile` table 中對應的 studentType 加上 root_user_types
+>
+> `root_user_types` 請參考 settings.js
+
   - users
   - courses
   - publications

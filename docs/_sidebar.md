@@ -4,6 +4,7 @@
 - Backend
   - [ENV](/backend/env)
   - [APP](/backend/app)
-  - [DB](/backend/db)
 - Deploy
   - [Guide](deploy/guide)
+  - [Machine](deploy/machine)
+  - [Repo](deploy/repo)
