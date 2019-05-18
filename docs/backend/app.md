@@ -17,5 +17,5 @@
   - CRUD 新聞
 
 ### user
-  - 登入
-  - 註冊
+  - Sign In
+  - Sign Up
