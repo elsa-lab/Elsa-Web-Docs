@@ -1,6 +1,8 @@
 - Guide
   - [Guide](/guide)
 - Frontend
-  - [Getting Started](/backend/getting-started)
+  - [Environment](/frontend/env)
+  - [APP](frontend/app)
 - Backend
-  - [Getting Started](/frontend/getting-started)
+  - [Environment](/backend/env)
+  - [APP](/backend/app)
