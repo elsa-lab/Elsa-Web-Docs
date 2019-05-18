@@ -1,8 +1,9 @@
-- Guide
-  - [Guide](/guide)
 - Frontend
-  - [Environment](/frontend/env)
+  - [ENV](/frontend/env)
   - [APP](frontend/app)
 - Backend
-  - [Environment](/backend/env)
+  - [ENV](/backend/env)
   - [APP](/backend/app)
+  - [DB](/backend/db)
+- Deploy
+  - [Guide](deploy/guide)
