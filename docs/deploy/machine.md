@@ -29,7 +29,3 @@ sudo rm policy.xml
 python3 manage.py runserver 0.0.0.0:8080
 ```
 用 Screen 指令讓它在背景執行，可參考 [此篇](https://blog.gtwang.org/linux/screen-command-examples-to-manage-linux-terminals/)，否則離開 ssh 就關閉剛下的指令了
-
-### 注意事項
--  machine 裡的 code 是用 git 來更新 ( local 寫完 push，remote 再 pull )
--  看要不要繼續用裡面的 .git，或者自己用個 ( repo 要如何處理 )
