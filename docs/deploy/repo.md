@@ -1,14 +1,10 @@
 # repo
 
 ### 主要前端 ( 有設計師 )
-https://github.com/terry623/Elsa-Origin-Frontend
+https://github.com/elsa-lab/Elsa-Web-Frontend
 
 ### 主要後端
-https://github.com/terry623/Elsa-Origin-Backend
-
-### 靜態檔案伺服器
-
-https://github.com/terry623/Elsa-Static
+https://github.com/elsa-lab/Elsa-Web-Backend
 
 ---
 > 之前學長們的遺產，clone 過來後變成上面的 repo

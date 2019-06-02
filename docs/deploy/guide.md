@@ -5,7 +5,7 @@
 - 放在 Google Cloud 的 `Compue Engine` 上 ( 就是放在雲端的虛擬機器 )
 - 只有 `Elsa Web` 專案底下的才是 Web 用的，不要亂刪到別人的 !!
 - 目前是前後端各一個 machine
-  - 建了一個 Node.js Server ( Express ) 放置前端靜態檔案
+  - 使用 [serve](https://github.com/zeit/serve) 部署前端靜態檔案
   - 討論一下未來是否要合併 ? https ? 可以研究一下
 - 後端的 machine 有給好一點，因為處理 pdf to image 需要
 

@@ -1,3 +1,3 @@
-# Elsa Lab Web
+# Elsa Web
 
 > An awesome project.
