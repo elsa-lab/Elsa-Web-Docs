@@ -11,9 +11,9 @@
 
 ### command
 
-- 啟動 : `python manage.py runserver`
+- 安裝套件 : `pip install -r requirements.txt`
 - 建 DB : `python manage.py migrate`
-- 建 superuser : `python manage.py createsuperuser`
+- 啟動 : `python manage.py runserver`
 - 其餘請參考 [Django 文件](https://docs.djangoproject.com/en/1.10/) ( 1.10 )
 
 ### database
