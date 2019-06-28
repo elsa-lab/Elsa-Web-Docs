@@ -21,9 +21,9 @@
 - 使用 `SQLite` 資料庫
 - migrate 時有參考 settings.py 裡的 `DOMAIN` ( 要注意，不然資料會變髒 )
 
-### imagemagick
+### imagemagick dll
 
-> 需先另行安裝
-
-- 請使用 Version 6
-- [官網下載區](https://imagemagick.org/download/windows/) 可載到舊版本的
+> windows環境需先另行安裝imagemagick dll包
+- 需使用 Version 6.9版，下載網址如下：
+- https://imagemagick.org/download/binaries/ImageMagick-6.9.10-49-Q8-x64-dll.exe
+- https://imagemagick.org/download/binaries/
